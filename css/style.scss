@@ -1,0 +1,27 @@
+.header {
+    background: url(../images/back.webp) 60% 50% / cover no-repeat;
+    width: 100%;
+    height: 1000px;
+}
+
+.header-blackout {
+    background-color: rgba(0, 0, 0, 0.65);
+    width: 100%;
+    height: 100%;
+}
+
+.header__top{
+    background-color: rgba(0, 0, 0, 0.60);
+    width: 100%;
+    height: 90px;
+}
+
+.wrap {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.logo img{
+    max-height: 90px;
+}
